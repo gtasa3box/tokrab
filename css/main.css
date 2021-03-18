@@ -614,9 +614,10 @@ img {
 	color: green;
 }
 
-
-
-
-
+@media (max-width: 600px) {
+	.imagehidden {
+		display: none;
+	}
+}
 
 
